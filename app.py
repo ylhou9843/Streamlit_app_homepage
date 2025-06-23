@@ -12,6 +12,8 @@ def main():
 
     st.link_button("Go to PDF Converter", "https://appapppdf2text-luxva4cpqg43dzjgrvbqvm.streamlit.app")
     st.link_button("Go to PIC Converter", "https://appapppic2text-vt37ckbzbrzc6vfc69fscc.streamlit.app")
+    st.link_button("Go to Address Validator", "https://appaddrvalid-ilrcbsvbfneyxynvxmybvw.streamlit.app/")
+
 
 
 # Call the main function to run the app
